@@ -1,0 +1,17 @@
+.DS_Store
+.buildpath
+.settings
+.project
+*.swp
+*.tmproj
+.idea
+atlassian-ide-plugin.xml
+
+Build/bin/*
+Build/logs/*
+Build/phpmetrics/*
+composer*
+!composer.json
+vendor
+cache.*
+
