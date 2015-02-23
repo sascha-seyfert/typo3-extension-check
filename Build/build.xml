@@ -3,7 +3,6 @@
     <property name="output" location="${basedir}/build"/>
 
     <property name="php" value="php"/>
-    <property name="extdir" location="${basedir}/typo3conf/ext"/>
     <property name="bindir" location="${basedir}/Build/bin"/>
     <property name="builddir" location="${basedir}/Build"/>
 
