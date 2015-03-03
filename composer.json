@@ -1,15 +1,13 @@
 {
-  "name": "me_shortlink",
+  "name": "acme/hello-world",
   "require-dev": {
+    "typo3-ci/typo3cms": "dev-master",
+    "typo3-ci/typo3sniffpool": "~1.0",
     "squizlabs/php_codesniffer": "1.5.5",
     "phploc/phploc": "2.0.6",
     "phpmd/phpmd": "2.1.1",
     "sebastian/phpcpd": "2.0.1",
     "halleck45/phpmetrics": "dev-master"
-  },
-  "require": {
-    "typo3-ci/typo3cms": "dev-master",
-    "typo3-ci/typo3sniffpool": "~1.0"
   },
   "config": {
     "bin-dir": "Build/bin"
